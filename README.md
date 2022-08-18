@@ -1,6 +1,5 @@
 ### Hi!
 
-
 I'm **[Marcos Fernandes](https://www.linkedin.com/in/marcos-fernandes-826348222/)** :arrow_left: *cool guy!*
 
 I'm currently learning: 
@@ -21,9 +20,7 @@ on *[Uniplac](http://www.uniplaclages.edu.br/)*, an local university, and on *[A
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=nedzie&show_icons=true&theme=dracula" width="400" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedzie)](https://github.com/anuraghazra/github-readme-stats) 
 
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedzie)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=nedzie&show_icons=true&theme=dracula" width="500" >
+  
