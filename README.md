@@ -10,12 +10,10 @@ I'm currently learning:
 - Python
 - Angular
 - TypeScript += (HTML, CSS, JS)
+- Git
 - Also, GitHub (And it's mechanics)
 
-  
-on *[Uniplac](http://www.uniplaclages.edu.br/)*, an local university, and on *[Academia do Programador](http://academiadoprogramador.com/)*, an intensive course to learn programming, based on *[Microsoft's](https://www.microsoft.com/)* products, supported by the company *[NDD](https://ndd.tech/)*.
-
-I'm currently working at [NDD](https://ndd.tech) Yay!
+I'm currently working at [NDD](https://ndd.tech).
 
 ---
 
